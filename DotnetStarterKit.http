@@ -1,0 +1,6 @@
+@DotnetStarterKit_HostAddress = http://localhost:5231
+
+GET {{DotnetStarterKit_HostAddress}}/swagger/index.html/
+Accept: application/json
+
+###

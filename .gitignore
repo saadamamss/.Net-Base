@@ -1,0 +1,44 @@
+# Build outputs
+bin/
+obj/
+
+# Logs
+logs/
+*.log
+
+# Uploaded files
+wwwroot/uploads/
+
+# User secrets & local config
+appsettings.Development.json
+*.user
+
+# Visual Studio
+.vs/
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code
+.vscode/
+.claude/
+
+# Rider
+.idea/
+
+# dotnet tools
+.config/
+
+# NuGet
+*.nupkg
+*.snupkg
+project.lock.json
+packages/
+
+# Environment
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
